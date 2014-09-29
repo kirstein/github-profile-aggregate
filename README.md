@@ -1,10 +1,10 @@
-# gh-profile-rating [![Build Status](https://secure.travis-ci.org/kirstein/gh-profile-rating.png?branch=master)](https://travis-ci.org/kirstein/gh-profile-rating)
+# gh-profile-rating [![Build Status](https://secure.travis-ci.org/kirstein/github-profile-aggregate.png?branch=master)](https://travis-ci.org/kirstein/github-profile-aggregate)
 
-> Rates persons github profile subjectively
+> Aggregates users github data
 
 ### Getting started
 
-`npm install gh-profile-rating`
+`npm install github-profile-aggregate`
 
 
 ### Testing 
